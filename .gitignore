@@ -1,0 +1,6 @@
+test_images/
+train_images/
+val_images/
+.idea
+
+*.zip
